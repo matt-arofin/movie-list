@@ -1,13 +1,13 @@
-package pro.mattola.movieapp;
+package pro.mattola.movies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieAppApplication {
+public class MoviesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieAppApplication.class, args);
+		SpringApplication.run(MoviesApplication.class, args);
 	}
 
 }

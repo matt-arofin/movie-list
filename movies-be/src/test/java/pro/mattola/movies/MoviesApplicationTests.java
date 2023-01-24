@@ -1,10 +1,10 @@
-package pro.mattola.movieapp;
+package pro.mattola.movies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovieAppApplicationTests {
+class MoviesApplicationTests {
 
 	@Test
 	void contextLoads() {
